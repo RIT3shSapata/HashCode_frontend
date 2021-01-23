@@ -1,10 +1,16 @@
 import './App.css';
+import Sidenav from './Components/Sidenav';
+import Logo from './Components/Logo';
+import Resource from './Components/Resources';
 
 function App() {
   return (
-    <div className='App'>
-      <h1>reLearn Frontend</h1>
+    <div>
+      <Logo />
+      <Sidenav />
+      <Resource />
     </div>
+    
   );
 }
 

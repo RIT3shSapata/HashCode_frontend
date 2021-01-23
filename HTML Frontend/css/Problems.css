@@ -114,7 +114,25 @@ letter-spacing: 0.12em;
 color: #000000;
 }
 
-.Question__Bar{
+.Skill_2{
+    position: absolute;
+width: 392px;
+height: 63.82px;
+left: 521.8px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.12em;
+
+color: #000000;
+}
+
+.Question__Bar1{
     position: absolute;
 width: 1923px;
 height: 200.72px;
@@ -175,22 +193,11 @@ color: #000000;
     top: 35px;
     background: #4D9C88;
     border-radius: 7px;
-}
-
-.Solve__Text{
-    position: absolute;
-    width: 120.76px;
-    height: 91.24px;
-    left: 1600.41px;
-    top: 329.74px;
-
-    font-style: normal;
-    font-weight: normal;
     font-size: 40px;
     line-height: 49px;
     display: flex;
     align-items: center;
     text-align: center;
-
     color: #FFFFFF;
 }
+
