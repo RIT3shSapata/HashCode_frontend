@@ -1,5 +1,4 @@
 import React from 'react';
-import './Logo.css';
 import Card from './Card'
 import './Resources.css';
 
@@ -24,7 +23,7 @@ const lists = [
     }
   ];
 
-function Logo() {
+function Resources() {
   return (
       <div>
           <h2 className="Resource__Heading">RESOURCE</h2>
@@ -39,4 +38,4 @@ function Logo() {
     );
 }
 
-export default Logo;
+export default Resources;

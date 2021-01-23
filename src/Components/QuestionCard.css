@@ -1,0 +1,36 @@
+.Question__Bar{
+    width: 950px;
+    height: 100px;
+    background-color: rgb(235, 231, 231);
+    margin-top:20px;
+
+}
+
+.Difficulty{
+    position: relative;
+    left: 70px;
+    bottom: 7px;
+    font-family: 'Montserrat';
+    margin-left: 30px;
+    font-size: 20px;
+    color: black;
+}
+
+.Question{
+    position: relative;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    top: 20px;
+    color: black;
+}
+
+.Question__Button{
+    position: relative;
+    float: right;
+    right: 20px;
+    font-family: 'Montserrat';
+    color: white;
+    bottom: 55px;
+    background-color: #4D9C88;
+}
