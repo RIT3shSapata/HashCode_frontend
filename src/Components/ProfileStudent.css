@@ -1,0 +1,59 @@
+.Profile__Student{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 20px;
+
+}
+
+.Progress__Bar{
+    width: 900px;
+    height: 100px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.Profile__Content{
+    width: 900px;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.Profile__Heading p{
+    position: relative;
+    bottom: 40px;
+    left: 50px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.Profile__Heading{
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+
+.Profile__Value{
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+    background-color: rgb(214, 214, 214);
+    width: 800px;
+    height: 100px;
+    border-radius: 15px;
+}
+
+.Skill__Icon{
+    color: #AACDAE;
+    position: relative;
+    top: 10px;
+}
+
+.Star__Icon{
+    color: #AACDAE;
+    position: relative;
+    top: 10px;
+    font-size: 40px;
+}
