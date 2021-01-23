@@ -1,0 +1,16 @@
+.Logo{
+    position: absolute;
+    height: 100px;
+    width: 85px;
+    margin-left: 50px;
+}
+
+.Main__Heading {
+    position: absolute;
+    left: 150px;
+    font-weight: 800;
+    font-size: 45px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #0E5182;
+} 
