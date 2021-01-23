@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign In</title>
+    <link rel="stylesheet" href="css/Account.css">
+    <script src="https://kit.fontawesome.com/yourcode.js"></script>
+</head>
+<body>
+    <div class="Logo">
+      <img class="Logo__Img" src="img/logo.png" alt="Logo">
+        <h2
+            class="Main__Heading">reLearn</h2>
+    </div>
+  
+  <div class="About">
+    <p class="About__Heading">CONNECT. LEARN. GROW</p>
+    <p class="About__Subheading">Social Network for Learning</p>
+    <img class="About__Illustration" src="img/Illustration.png" alt="Illustration">
+  </div>
+
+  <div class="Aside__Box">
+    <div class="hero">
+        <div class="form-box">
+          <div class="div button-box">
+            <div id="btn"></div>
+            <button type="button" class="toggle-btn" onclick="login()">Log In</button>
+            <button type="button" class="toggle-btn" onclick="register()">Register</button>
+          </div>
+
+          <form id="login" class="input-group">
+            <input type="text" class="input-field" placeholder="Username" required>
+            <input type="text" class="input-field" placeholder="Password" required><br><br>
+            <button class="submit-btn" type="submit">Log In</button>
+            
+          </form>
+      
+          <form id="register" class="input-group">
+            <i class="fa fa-github" style="font-size:48px;color:#AACDAE"></i>
+            <i class="fa fa-google" style="font-size:48px;color:#AACDAE"></i>
+            <input type="text" class="input-field" placeholder="Username" required>
+            <input type="email" class="input-field" placeholder="Email" required>
+            <input type="text" class="input-field" placeholder="Password" required><br><br>
+
+            <button class="submit-btn" id="Submit__Student" type="submit">Register as a student</button><br>
+
+            <button class="submit-btn" id="Submit__Mentor" type="submit">Register as a mentor</button>
+          </form>
+        </div>
+      </div>
+  </div>
+
+  <script>
+      var x = document.getElementById("login");
+var y = document.getElementById("register");
+var z = document.getElementById("btn");
+
+function register() {
+  x.style.left = "-400px";
+  y.style.left = "50px";
+  z.style.left = "110px";
+}
+
+function login() {
+  x.style.left = "50px";
+  y.style.left = "450px";
+  z.style.left = "0px";
+}
+
+  </script>
+  
+  
+</body>
+</html>

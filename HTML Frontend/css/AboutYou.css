@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Open Sans');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Fira Sans');
+
+html {
+    scroll-behavior: smooth;
+  }
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: 'Montserrat';
+    background: #C5E5E3;
+
+}
+
+.Main__Heading {
+    /* reLearn */
+    position: absolute;
+    width: 239px;
+    height: 92px;
+    left: 166px;
+    top: 60px;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #0E5182;
+}
+
+.Logo__Img{
+    position: absolute;
+    width: 93px;
+    height: 108px;
+    left: 73px;
+    top: 40px;
+}
+
+.About__Heading{
+    position: absolute;
+    width: 877px;
+    height: 87px;
+    left: 190px;
+    top: 200px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    letter-spacing: 0.07em;
+
+    color: #0E5182;
+}
+
+.About__Subheading{
+    position: absolute;
+    width: 521px;
+    height: 42px;
+    left: 352px;
+    top: 310px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    color: rgba(14, 81, 130, 0.65);
+}
+
+.About__Illustration{
+    position: absolute;
+    width: 883px;
+    height: 582px;
+    left: 264px;
+    top: 340px;
+}
+
+.Aside__Box{
+    position: absolute;
+    width: 672px;
+    height: 930px;
+    left: 1247px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: -6px 4px 4px #AACDAE;
+}
+
+/* Sign In */
+.hero {
+    height: 100vh;
+    width: 100%;
+    background-color: #74afda;
+    position: absolute;
+  }
+
+select {
+    position: absolute;
+    top: 300px;
+    width: 400px;
+    padding: 20px;
+}
