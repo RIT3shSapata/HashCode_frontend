@@ -1,3 +1,4 @@
+
 .Resource__Heading{
     position: absolute;
     left: 888px;
@@ -6,4 +7,29 @@
     font-size: 45px;
     text-align: center;
     color: rgba(14, 81, 130, 0.77);
+}
+
+.Resource__Query{
+    position: relative;
+    left: 1000px;
+    top: 40px;
+}
+
+.Query__Heading{
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.form-control{
+    padding: 5px;
+    border-radius: 5px;
+}
+.Query__Button{
+    padding: 5px;
+    position: relative;
+    left: 10px;
+    border-radius: 5px;
+    background-color: #4D9C88;
+    color: white;
+    font-weight: 400;
 }

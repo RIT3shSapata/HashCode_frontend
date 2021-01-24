@@ -62,9 +62,9 @@ function Resources() {
   };
 
   return (
-    <div className='col-12 col-sm-6 col-md-3'>
+    <div className='Resource__Query'>
       <form onSubmit={handleSubmit}>
-        <label>Userquery</label>
+        <label className='Query__Heading'>Userquery</label><br/><br/>
         <input
           type='text'
           className='form-control'
@@ -75,7 +75,7 @@ function Resources() {
           onChange={handlequery}
           required
         />
-        <input type='submit' className='form-control btn-info' value='Submit' />
+        <input type='submit' className='Query__Button' value='Submit' />
       </form>
       <div>
         {articles.map((x) => {
