@@ -13,7 +13,9 @@ function ProfileStudent() {
                     <AssignmentIcon className="Skill__Icon"/>
                     <p>Verified Skills</p>
                     <div className="Profile__Value">
-                        MY SKILL
+                        <span className="info">
+                            Python  |   Web Dev
+                        </span>
                     </div>
                 </div>
 
@@ -21,7 +23,9 @@ function ProfileStudent() {
                     <StarIcon className="Star__Icon"/>
                     <p>Achievements</p>
                     <div className="Profile__Value">
-                        MY Achievements
+                    <span className="info">
+                            HashCode Top 10
+                        </span>
                     </div>
                 </div>
             </div>

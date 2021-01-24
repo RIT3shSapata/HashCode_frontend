@@ -6,6 +6,7 @@ import CardActions from "@material-ui/core/CardActions";
 import IconButton from "@material-ui/core/IconButton";
 import Typography from "@material-ui/core/Typography";
 import FavoriteIcon from "@material-ui/icons/Favorite";
+import { Link } from 'react-router-dom';
 import './QuestionCard.css';
 
 export default function QuestionCard(props) {
@@ -24,9 +25,11 @@ export default function QuestionCard(props) {
         {props.difficulty}
     </Typography>
     </CardContent>
+    <Link to='/code'>
     <Button className="Question__Button" variant="contained" color="#AACDAE">
           SOLVE
         </Button>
+        </Link>
     </Card>
     );
 }
