@@ -64,11 +64,11 @@ function Resources() {
   return (
     <div className='Resource__Query'>
       <form onSubmit={handleSubmit}>
-        <label className='Query__Heading'>Userquery</label><br/><br/>
+        <h2 className='Query__Heading'>RESOURCE</h2>
         <input
           type='text'
           className='form-control'
-          placeholder='Query'
+          placeholder='Search for resources'
           id='xyz'
           name='studentname'
           value={query}
