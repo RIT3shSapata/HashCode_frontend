@@ -15,26 +15,34 @@ function Sidenav() {
         <p className='User__Name'>User01</p>
         <div className='Sidebar__Link'>
             <div className='Sidebar__Pages'>
+                <Link to='/' style={{ textDecoration: 'none' }}>
                 <DashboardIcon className='Navbar__dashboard'/>
                 <p className='Page'>PROFILE</p>
+                </Link>
             </div>
           
 
             <div className='Sidebar__Pages'>
-                <LaptopChromebookIcon className='Navbar__resources' />
-                <p className='Page'>RESOURCES</p>
+                <Link to='/resources' style={{ textDecoration: 'none' }}>
+                    <LaptopChromebookIcon className='Navbar__resources' />
+                    <p className='Page'>RESOURCES</p>
+                </Link>
             </div>
            
 
             <div className='Sidebar__Pages'>
+                <Link to='/problem' style={{ textDecoration: 'none' }}>
                 <CodeIcon className='Navbar__code' />
-                <p className='Page'>CODER</p>
+                <p className='Page'>PROBLEMS</p>
+                </Link>
             </div>
             
 
             <div className='Sidebar__Pages'>
+                <Link to='/connect' style={{ textDecoration: 'none' }}>
                 <PeopleIcon className='Navbar__connect' />
                 <p className='Page'>CONNECT</p>
+                </Link>
             </div>
         
 

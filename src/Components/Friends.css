@@ -1,0 +1,45 @@
+.Friends {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  position: relative;
+  top: 110px;
+  left: 380px;
+  height: 100vh;
+  max-width: 1000px;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+.Friends__Heading{
+  position: absolute;
+  left: 788px;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 45px;
+  text-align: center;
+  color: rgba(14, 81, 130, 0.77);
+}
+.Github__Icon{
+  position: relative;
+  bottom: 160px;
+  right: 10px;
+  float: right;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}

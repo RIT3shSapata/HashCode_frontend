@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 .Nav {
-    height: 490px;
+    height: 500px;
     width: 350px;
     position: absolute;
     left: 50px;
@@ -41,37 +41,39 @@
 .Page {
     font-weight: bold;
     position: relative;
+    text-decoration: none;
     bottom: 40px;
     left: 50px;
+    color: black;
 }
 
 .Navbar__dashboard {
     color: #AACDAE;
-    font-size: 40px;
+    font-size: 27px;
     position: relative;
 }
 
 .Navbar__resources {
     color: #AACDAE;
-    font-size: 40px;
+    font-size: 27px;
     position: relative;
 }
 
 .Navbar__code {
     color: #AACDAE;
-    font-size: 40px;
+    font-size: 27px;
     position: relative;
 }
 
 .Navbar__connect {
     color: #AACDAE;
-    font-size: 40px;
+    font-size: 27px;
     position: relative;
 }
 
 .Navbar__logout {
     color: #AACDAE;
-    font-size: 40px;
+    font-size: 27px;
     position: relative;
 }
 
