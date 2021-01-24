@@ -22,7 +22,7 @@ const useStyles = makeStyles({
   },
 });
 
-function FriendCard({ number }) {
+function FriendCard(props) {
   const classes = useStyles();
 
   return (
@@ -35,12 +35,9 @@ function FriendCard({ number }) {
             title='Friend'
           />
           <CardContent>
-            <Typography gutterBottom variant='h5' component='h2'>
-              Friend {number}
-            </Typography>
+            
             <Typography variant='body2' color='textSecondary' component='p'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
-              provident,(SKILL)
+              {props.rec}
             </Typography>
           </CardContent>
         </CardActionArea>

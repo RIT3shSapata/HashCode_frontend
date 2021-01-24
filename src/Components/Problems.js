@@ -16,8 +16,8 @@ const lists = [
 function Problems() {
   return (
       <div>
-          <h2 className="Problems__Heading">IMPROVE SKILLS</h2>
-      <div className="Problem" style={{position: "relative", left:"500px", top:"125px"}}>
+          <h2 className="Problems__Heading">PROBLEMS</h2>
+      <div className="Problem" style={{position: "relative", left:"500px", top:"145px"}}>
             <div style={{ display: "flex", flexFlow: "row wrap", margin: "0 5px" }}>
             {lists.map((list, idx) => {
             return <Card key={idx} question={list.question} difficulty={list.difficulty} />;

@@ -6,9 +6,7 @@ import StarIcon from '@material-ui/icons/Star';
 function ProfileStudent() {
   return (
       <div className="Profile__Student">
-            <div className="Progress__Bar">
-                Progress
-            </div>
+           
             <br/><br/>
             <div className="Profile__Content">
                 <div className="Profile__Heading">

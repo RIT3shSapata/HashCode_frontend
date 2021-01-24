@@ -16,6 +16,7 @@
 .Profile__Content{
     width: 900px;
     height: 600px;
+    margin-top: 80px;
     background-color: white;
     border-radius: 10px;
     text-align: left;

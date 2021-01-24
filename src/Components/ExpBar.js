@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import './ExpBar.css';
 
 function ExpBar() {
   const [xp, setXP] = useState(0);
@@ -39,8 +40,8 @@ function ExpBar() {
     }, 60000);
   }, []);
   return (
-    <div>
-      <h2>XP</h2>
+    <div className="Exp__Bar">
+      <h2 className="XP__Heading">XP</h2>
       <progress id='file' value={xp} max='100'>
         {xp}
       </progress>

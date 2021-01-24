@@ -1,0 +1,13 @@
+.Exp__Bar{
+    position: relative;
+    z-index: 1;
+    float: right;
+    background-color: #9dd6e7;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.XP__Heading{
+    position: relative;
+    margin-left: 135px;
+}
