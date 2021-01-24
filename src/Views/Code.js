@@ -3,8 +3,13 @@ import Editor from '../Components/Editor/Editor';
 
 function Code() {
   return (
-    <div>
-      <Editor />
+    <div className='code'>
+      <div className='code__left'>
+        <h1>Question</h1>
+      </div>
+      <div className='code__right'>
+        <Editor />
+      </div>
     </div>
   );
 }
