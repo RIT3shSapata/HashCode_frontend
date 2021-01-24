@@ -64,7 +64,7 @@ function Resources() {
   return (
     <div className='Resource__Query'>
       <form onSubmit={handleSubmit}>
-        <h2 className='Query__Heading'>RESOURCE</h2>
+        <h2 className='Resource__Heading'>RESOURCE</h2>
         <input
           type='text'
           className='form-control'

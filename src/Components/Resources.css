@@ -1,7 +1,8 @@
 
 .Resource__Heading{
     position: absolute;
-    left: 888px;
+    
+    bottom: 40px;
     font-family: 'Montserrat';
     font-weight: 600;
     font-size: 45px;
@@ -10,9 +11,11 @@
 }
 
 .Resource__Query{
-    position: relative;
-    left: 1000px;
-    top: 40px;
+    position: absolute;
+    left: 620px;
+    top: 150px;
+    margin-left: 60px;
+    color: rgba(14, 81, 130, 0.77);
 }
 
 .Query__Heading{
