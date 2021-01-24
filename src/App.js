@@ -4,10 +4,9 @@ import Sidenav from './Components/Sidenav';
 import Logo from './Components/Logo';
 import Resource from './Components/Resources';
 import Problems from './Components/Problems';
-import ProfileStudent from './Components/ProfileStudent'
+import ProfileStudent from './Components/ProfileStudent';
 import Code from './Views/Code';
 import Friends from './Components/Friends';
-
 
 function App() {
   return (
@@ -19,25 +18,26 @@ function App() {
         <Route path='/problem'>
           <Logo />
           <Sidenav />
-          <Problems /> 
+          <Problems />
         </Route>
-        <Route path='/'>
+        <Route exact path='/'>
           <Logo />
           <Sidenav />
-          <ProfileStudent /> 
+          <ProfileStudent />
         </Route>
         <Route path='/connect'>
           <Logo />
           <Sidenav />
-          <Friends /> 
+          <Friends />
         </Route>
-        <Route path='/resource'>
+        <Route path='/resources'>
           <Logo />
           <Sidenav />
-          <Resource /> 
+          <Resource />
         </Route>
       </Switch>
     </Router>
-)}
+  );
+}
 
 export default App;
