@@ -1,0 +1,1000 @@
+index,name,experience,interest-1,interest-2,interest-3,linkedIn,github,proficiency-1,proficiency-2
+1,John,20,competitive programming,data structures,data science,297,42,javascript,c
+2,William,8,backend development,internet of things,software design,72,18,octave,python
+3,James,13,competitive programming,blockchain,game development,102,7,python,MEAN
+4,Charles,20,hardware design,competitive programming,algorithms,390,32,matlab,verilog
+5,George,16,full stack web development,internet of things,blockchain,726,24,go,javascript
+6,Frank,13,software design,big data,blockchain,726,49,python,c
+7,Joseph,4,computer vision,ios development,game development,958,29,MERN,flutter
+8,Thomas,15,internet of things,machine learning,deep learning,617,18,java,java
+9,Henry,7,blockchain,machine learning,data structures,276,9,verilog,swift
+10,Robert,10,algorithms,blockchain,big data,27,1,swift,octave
+11,Edward,8,full stack web development,backend development,internet of things,765,40,matlab,R
+12,Harry,7,data structures,natural language processing,frontend development,441,27,python,go
+13,Walter,11,competitive programming,hardware design,software design,379,22,javascript,matlab
+14,Arthur,19,data structures,deep learning,algorithms,834,25,R,javascript
+15,Fred,9,frontend development,data science,game development,436,46,R,swift
+16,Albert,7,software design,data structures,frontend development,615,39,javascript,java
+17,Samuel,15,game development,frontend development,algorithms,796,9,javascript,c++
+18,David,5,ios development,android app development,data science,128,34,javascript,c
+19,Louis,10,internet of things,backend development,blockchain,179,32,verilog,javascript
+20,Joe,5,algorithms,game development,algorithms,444,7,go,MEAN
+21,Charlie,17,deep learning,ios development,frontend development,24,16,javascript,c++
+22,Clarence,2,data science,machine learning,backend development,752,34,arduino,javascript
+23,Richard,15,data science,data science,deep learning,141,35,MERN,MEAN
+24,Andrew,20,natural language processing,data structures,backend development,519,11,MERN,c++
+25,Daniel,15,blockchain,blockchain,algorithms,878,25,python,python
+26,Ernest,5,natural language processing,internet of things,data science,441,24,c,swift
+27,Will,19,software design,deep learning,game development,116,33,c,javascript
+28,Jesse,14,big data,big data,computer vision,282,46,c++,python
+29,Oscar,12,software design,big data,big data,256,29,java,swift
+30,Lewis,13,natural language processing,computer vision,algorithms,948,18,javascript,c
+31,Peter,19,natural language processing,frontend development,computer vision,510,15,MERN,matlab
+32,Benjamin,18,big data,competitive programming,big data,444,29,c++,R
+33,Frederick,4,game development,blockchain,full stack web development,808,22,verilog,verilog
+34,Willie,19,hardware design,internet of things,hardware design,219,7,java,flutter
+35,Alfred,15,data science,hardware design,natural language processing,138,16,MEAN,c++
+36,Sam,6,data structures,data science,competitive programming,507,48,c,python
+37,Roy,4,big data,android app development,natural language processing,722,45,MERN,MEAN
+38,Herbert,9,hardware design,hardware design,deep learning,241,50,c,MEAN
+39,Jacob,13,frontend development,software design,machine learning,899,8,MERN,javascript
+40,Tom,17,full stack web development,data science,algorithms,318,47,matlab,go
+41,Elmer,18,data science,backend development,blockchain,889,23,flutter,octave
+42,Carl,16,ios development,data structures,full stack web development,407,38,MEAN,matlab
+43,Lee,10,natural language processing,software design,competitive programming,989,24,flutter,verilog
+44,Howard,3,hardware design,algorithms,blockchain,474,41,swift,javascript
+45,Martin,11,big data,hardware design,data science,855,19,R,c++
+46,Michael,13,natural language processing,natural language processing,big data,724,31,c,octave
+47,Bert,14,software design,frontend development,backend development,325,26,swift,MERN
+48,Herman,16,internet of things,data structures,software design,756,48,python,python
+49,Jim,11,android app development,ios development,natural language processing,460,10,javascript,javascript
+50,Francis,8,hardware design,full stack web development,hardware design,65,46,matlab,java
+51,Harvey,9,algorithms,computer vision,android app development,94,29,swift,python
+52,Earl,5,competitive programming,software design,natural language processing,631,19,MERN,c++
+53,Eugene,3,big data,competitive programming,data science,237,21,swift,go
+54,Ralph,20,machine learning,ios development,computer vision,901,34,c,javascript
+55,Ed,10,big data,deep learning,frontend development,657,47,go,swift
+56,Claude,3,android app development,computer vision,full stack web development,444,31,java,octave
+57,Edwin,14,android app development,ios development,backend development,786,11,flutter,octave
+58,Ben,11,deep learning,machine learning,internet of things,222,31,javascript,MERN
+59,Charley,12,game development,backend development,blockchain,979,24,MERN,R
+60,Paul,20,backend development,algorithms,machine learning,673,8,MEAN,MEAN
+61,Edgar,16,ios development,backend development,frontend development,922,13,c,verilog
+62,Isaac,4,algorithms,natural language processing,algorithms,973,27,MEAN,arduino
+63,Otto,15,backend development,android app development,game development,665,18,MERN,verilog
+64,Luther,3,hardware design,android app development,data structures,342,10,MEAN,octave
+65,Lawrence,10,full stack web development,machine learning,computer vision,473,48,MEAN,verilog
+66,Ira,18,computer vision,frontend development,machine learning,305,49,R,MEAN
+67,Patrick,6,natural language processing,hardware design,ios development,41,18,MERN,c++
+68,Guy,3,data science,hardware design,ios development,416,11,verilog,arduino
+69,Oliver,1,ios development,full stack web development,frontend development,370,27,go,swift
+70,Theodore,8,full stack web development,blockchain,backend development,39,9,R,go
+71,Hugh,19,frontend development,blockchain,data structures,901,50,verilog,matlab
+72,Clyde,11,hardware design,data structures,computer vision,463,3,octave,c++
+73,Alexander,6,hardware design,internet of things,machine learning,785,14,c,flutter
+74,August,2,competitive programming,deep learning,frontend development,201,33,c++,go
+75,Floyd,16,frontend development,natural language processing,machine learning,634,43,MERN,verilog
+76,Homer,18,ios development,data science,ios development,329,24,go,R
+77,Jack,3,competitive programming,big data,software design,543,6,arduino,swift
+78,Leonard,5,data structures,backend development,algorithms,877,8,R,octave
+79,Horace,17,data science,data science,data science,707,35,MERN,python
+80,Marion,9,android app development,game development,data science,721,49,c++,c++
+81,Philip,9,deep learning,data science,data science,252,28,swift,MEAN
+82,Allen,17,blockchain,frontend development,ios development,526,23,python,matlab
+83,Archie,4,hardware design,data science,natural language processing,721,21,verilog,flutter
+84,Stephen,7,full stack web development,big data,full stack web development,729,44,java,c++
+85,Chester,6,natural language processing,game development,data structures,354,17,c++,javascript
+86,Willis,1,internet of things,backend development,android app development,427,41,MEAN,octave
+87,Raymond,12,competitive programming,data structures,backend development,860,18,go,matlab
+88,Rufus,5,frontend development,big data,backend development,759,22,arduino,go
+89,Warren,5,frontend development,data science,data structures,535,13,c++,c
+90,Jessie,3,big data,internet of things,ios development,82,15,matlab,MEAN
+91,Milton,17,natural language processing,machine learning,android app development,936,2,python,R
+92,Alex,3,game development,competitive programming,natural language processing,438,36,flutter,R
+93,Leo,15,frontend development,android app development,data science,286,42,arduino,MEAN
+94,Julius,13,full stack web development,backend development,computer vision,628,19,matlab,java
+95,Ray,1,full stack web development,natural language processing,software design,921,4,c,R
+96,Sidney,20,hardware design,software design,game development,905,35,matlab,arduino
+97,Bernard,5,data science,machine learning,big data,492,22,go,javascript
+98,Dan,6,game development,ios development,blockchain,762,13,MERN,matlab
+99,Jerry,9,natural language processing,frontend development,frontend development,882,38,MERN,c
+100,Calvin,17,game development,big data,backend development,610,30,arduino,R
+101,Perry,9,natural language processing,data structures,big data,631,17,matlab,verilog
+102,Dave,5,backend development,blockchain,natural language processing,270,33,java,python
+103,Anthony,8,software design,data science,internet of things,314,27,go,flutter
+104,Eddie,2,blockchain,data science,big data,523,10,MEAN,javascript
+105,Amos,8,full stack web development,data structures,data structures,297,49,go,R
+106,Dennis,10,natural language processing,data science,data structures,212,3,arduino,MERN
+107,Clifford,3,game development,ios development,game development,369,38,javascript,javascript
+108,Leroy,17,full stack web development,computer vision,data science,445,46,c,javascript
+109,Wesley,10,natural language processing,computer vision,machine learning,261,21,matlab,java
+110,Alonzo,14,game development,game development,algorithms,549,9,flutter,java
+111,Garfield,9,deep learning,software design,deep learning,32,7,python,go
+112,Franklin,10,blockchain,software design,data structures,987,16,MEAN,swift
+113,Emil,7,internet of things,ios development,android app development,39,2,java,swift
+114,Leon,19,internet of things,data science,software design,102,42,R,java
+115,Nathan,16,natural language processing,software design,competitive programming,226,14,swift,arduino
+116,Harold,14,machine learning,algorithms,deep learning,612,28,octave,java
+117,Matthew,2,backend development,blockchain,deep learning,66,16,swift,R
+118,Levi,13,backend development,full stack web development,natural language processing,436,11,swift,python
+119,Moses,18,hardware design,blockchain,data structures,502,49,c++,python
+120,Everett,12,computer vision,internet of things,big data,137,45,c++,swift
+121,Lester,19,data structures,blockchain,internet of things,297,31,verilog,go
+122,Winfield,20,competitive programming,android app development,natural language processing,783,35,java,java
+123,Adam,8,big data,computer vision,machine learning,747,15,R,MERN
+124,Lloyd,14,algorithms,data structures,data structures,540,9,verilog,MERN
+125,Mack,13,algorithms,frontend development,android app development,145,43,java,flutter
+126,Fredrick,8,software design,full stack web development,blockchain,559,30,go,flutter
+127,Jay,4,data science,algorithms,hardware design,351,1,R,verilog
+128,Jess,7,computer vision,algorithms,ios development,471,36,arduino,java
+129,Melvin,15,competitive programming,game development,full stack web development,817,20,python,java
+130,Noah,19,data structures,ios development,competitive programming,525,9,octave,javascript
+131,Aaron,10,backend development,data science,computer vision,869,6,go,python
+132,Alvin,11,android app development,frontend development,data structures,170,43,c,c
+133,Norman,13,game development,data science,android app development,479,32,R,c
+134,Gilbert,10,blockchain,algorithms,data science,690,1,javascript,MEAN
+135,Elijah,17,big data,big data,frontend development,235,21,MEAN,MEAN
+136,Victor,2,big data,deep learning,big data,525,9,octave,R
+137,Gus,8,data science,natural language processing,competitive programming,713,33,c++,java
+138,Nelson,17,game development,backend development,game development,699,26,verilog,go
+139,Jasper,8,backend development,natural language processing,machine learning,812,41,java,java
+140,Silas,10,algorithms,big data,computer vision,468,23,MEAN,go
+141,Christopher,20,software design,frontend development,android app development,294,8,flutter,octave
+142,Jake,7,machine learning,hardware design,natural language processing,820,38,go,MERN
+143,Mike,13,full stack web development,frontend development,deep learning,196,25,javascript,verilog
+144,Percy,15,algorithms,game development,machine learning,946,4,swift,go
+145,Adolph,12,game development,computer vision,frontend development,308,22,swift,matlab
+146,Maurice,20,competitive programming,data science,computer vision,436,13,go,verilog
+147,Cornelius,9,frontend development,ios development,data structures,353,43,arduino,R
+148,Felix,9,full stack web development,hardware design,big data,258,28,python,matlab
+149,Reuben,6,computer vision,android app development,frontend development,244,4,verilog,swift
+150,Wallace,2,internet of things,big data,computer vision,150,36,MEAN,go
+151,Claud,5,algorithms,big data,full stack web development,569,22,octave,verilog
+152,Roscoe,9,software design,data structures,hardware design,494,23,MEAN,swift
+153,Sylvester,11,machine learning,hardware design,backend development,836,12,verilog,verilog
+154,Earnest,4,backend development,android app development,game development,450,28,python,MERN
+155,Hiram,14,frontend development,big data,internet of things,576,3,flutter,arduino
+156,Otis,7,big data,algorithms,data science,536,29,python,octave
+157,Simon,18,blockchain,backend development,machine learning,884,42,matlab,MERN
+158,Willard,16,ios development,computer vision,software design,448,43,swift,java
+159,Irvin,9,backend development,algorithms,software design,769,21,arduino,MEAN
+160,Mark,8,hardware design,software design,hardware design,864,43,swift,javascript
+161,Jose,5,blockchain,frontend development,game development,680,14,c++,flutter
+162,Wilbur,4,data science,data structures,machine learning,868,41,swift,java
+163,Abraham,11,software design,blockchain,internet of things,510,31,javascript,swift
+164,Virgil,1,algorithms,computer vision,data science,782,45,arduino,java
+165,Clinton,2,internet of things,machine learning,machine learning,773,44,MEAN,python
+166,Elbert,5,computer vision,data structures,data structures,509,26,MERN,matlab
+167,Leslie,4,data science,competitive programming,internet of things,386,48,R,MERN
+168,Marshall,7,competitive programming,data structures,machine learning,251,49,MERN,R
+169,Owen,5,hardware design,deep learning,full stack web development,245,4,verilog,MERN
+170,Wiley,20,natural language processing,backend development,blockchain,410,22,matlab,c
+171,Anton,5,natural language processing,deep learning,hardware design,781,35,R,javascript
+172,Morris,7,internet of things,data science,big data,288,39,arduino,flutter
+173,Manuel,9,game development,game development,internet of things,253,41,MERN,MERN
+174,Phillip,11,natural language processing,algorithms,data science,743,19,go,arduino
+175,Augustus,16,android app development,backend development,full stack web development,154,42,c,swift
+176,Emmett,1,algorithms,game development,backend development,323,17,MEAN,arduino
+177,Eli,20,big data,competitive programming,natural language processing,769,44,javascript,c
+178,Nicholas,20,data structures,big data,data science,670,6,octave,swift
+179,Wilson,18,data science,data science,game development,822,31,arduino,MERN
+180,Alva,9,backend development,data structures,big data,202,4,MERN,flutter
+181,Harley,10,data structures,frontend development,data structures,75,38,javascript,python
+182,Newton,13,big data,data science,backend development,755,26,go,go
+183,Timothy,16,game development,full stack web development,competitive programming,911,7,octave,c
+184,Marvin,16,game development,internet of things,internet of things,861,18,octave,MERN
+185,Ross,11,blockchain,software design,backend development,377,5,MERN,python
+186,Curtis,20,blockchain,deep learning,internet of things,134,46,matlab,arduino
+187,Edmund,6,ios development,software design,ios development,386,43,javascript,javascript
+188,Jeff,14,computer vision,data science,android app development,837,1,swift,octave
+189,Elias,19,blockchain,algorithms,frontend development,360,40,c,R
+190,Harrison,12,backend development,software design,data science,429,14,c++,octave
+191,Stanley,10,data structures,full stack web development,machine learning,797,2,MEAN,verilog
+192,Columbus,17,game development,data science,data structures,433,49,go,matlab
+193,Lon,13,natural language processing,competitive programming,internet of things,495,6,octave,matlab
+194,Ora,18,backend development,internet of things,game development,919,41,c++,arduino
+195,Ollie,20,internet of things,blockchain,competitive programming,788,5,flutter,swift
+196,Russell,8,machine learning,algorithms,competitive programming,302,36,c++,java
+197,Pearl,16,computer vision,big data,blockchain,925,26,flutter,matlab
+198,Solomon,9,hardware design,internet of things,deep learning,987,14,go,matlab
+199,Arch,10,ios development,machine learning,ios development,974,41,c,verilog
+200,Asa,5,algorithms,backend development,computer vision,219,25,octave,octave
+201,Clayton,12,algorithms,competitive programming,computer vision,751,16,MEAN,verilog
+202,Enoch,16,software design,algorithms,deep learning,270,3,flutter,c
+203,Irving,1,android app development,data structures,computer vision,634,7,python,swift
+204,Mathew,3,android app development,software design,android app development,618,9,go,java
+205,Nathaniel,16,computer vision,software design,software design,550,7,MEAN,python
+206,Scott,18,ios development,machine learning,ios development,807,34,swift,verilog
+207,Hubert,15,hardware design,algorithms,natural language processing,802,21,go,c
+208,Lemuel,17,blockchain,algorithms,competitive programming,511,28,swift,c++
+209,Andy,13,natural language processing,frontend development,internet of things,62,43,MEAN,java
+210,Ellis,16,frontend development,data science,internet of things,968,25,c++,c++
+211,Emanuel,17,android app development,deep learning,computer vision,310,43,R,c
+212,Joshua,17,backend development,data science,competitive programming,137,28,MEAN,java
+213,Millard,12,data structures,data science,ios development,900,41,go,verilog
+214,Vernon,4,game development,data structures,internet of things,815,12,python,swift
+215,Wade,9,computer vision,full stack web development,competitive programming,468,46,c++,octave
+216,Cyrus,6,android app development,internet of things,data structures,613,48,python,flutter
+217,Miles,7,data science,data science,frontend development,693,36,MEAN,verilog
+218,Rudolph,12,internet of things,android app development,hardware design,451,36,matlab,matlab
+219,Sherman,20,software design,software design,deep learning,166,42,swift,c
+220,Austin,18,natural language processing,hardware design,competitive programming,535,9,c,go
+221,Bill,6,ios development,internet of things,game development,103,5,R,swift
+222,Chas,12,big data,hardware design,computer vision,472,46,go,c++
+223,Lonnie,10,data science,deep learning,big data,880,16,octave,go
+224,Monroe,13,deep learning,machine learning,blockchain,654,5,octave,java
+225,Byron,13,backend development,frontend development,ios development,881,35,MEAN,MEAN
+226,Edd,18,big data,machine learning,full stack web development,945,39,c,go
+227,Emery,14,computer vision,hardware design,game development,334,6,MEAN,MERN
+228,Grant,4,blockchain,data science,natural language processing,765,38,matlab,c
+229,Jerome,20,algorithms,competitive programming,frontend development,117,16,java,arduino
+230,Max,13,algorithms,software design,frontend development,259,43,swift,swift
+231,Mose,15,data science,software design,blockchain,167,8,verilog,c++
+232,Steve,19,android app development,algorithms,full stack web development,210,3,python,c
+233,Gordon,5,deep learning,big data,natural language processing,212,46,verilog,verilog
+234,Abe,9,data structures,frontend development,game development,884,9,matlab,c++
+235,Pete,4,data science,android app development,hardware design,488,22,flutter,MEAN
+236,Chris,11,game development,hardware design,full stack web development,547,11,python,python
+237,Clark,2,hardware design,software design,algorithms,154,3,c,javascript
+238,Gustave,8,backend development,backend development,full stack web development,68,18,verilog,go
+239,Orville,6,algorithms,backend development,blockchain,41,17,go,python
+240,Lorenzo,7,computer vision,android app development,data science,232,43,verilog,verilog
+241,Bruce,15,backend development,data structures,software design,591,7,arduino,MEAN
+242,Marcus,17,android app development,full stack web development,big data,317,31,c++,javascript
+243,Preston,6,machine learning,game development,hardware design,273,11,flutter,python
+244,Bob,11,frontend development,frontend development,android app development,152,2,c,MERN
+245,Dock,19,machine learning,blockchain,full stack web development,648,16,matlab,verilog
+246,Donald,20,internet of things,data science,full stack web development,602,9,go,R
+247,Jackson,12,software design,blockchain,software design,757,24,c++,arduino
+248,Cecil,13,blockchain,internet of things,data structures,761,12,verilog,verilog
+249,Barney,15,machine learning,competitive programming,deep learning,408,38,MERN,octave
+250,Delbert,17,big data,frontend development,hardware design,85,31,matlab,octave
+251,Edmond,13,big data,frontend development,internet of things,991,35,arduino,MERN
+252,Anderson,18,android app development,frontend development,algorithms,800,33,flutter,verilog
+253,Christian,7,ios development,blockchain,frontend development,266,21,octave,MERN
+254,Glenn,3,internet of things,blockchain,deep learning,788,31,MERN,MERN
+255,Jefferson,18,android app development,software design,competitive programming,115,19,verilog,java
+256,Luke,12,frontend development,deep learning,ios development,205,32,java,c++
+257,Neal,13,competitive programming,machine learning,deep learning,782,17,c++,R
+258,Burt,9,full stack web development,competitive programming,data science,857,19,c,arduino
+259,Ike,13,computer vision,data structures,deep learning,608,6,python,arduino
+260,Myron,17,computer vision,data structures,android app development,333,48,go,arduino
+261,Tony,8,big data,internet of things,ios development,238,11,c++,c
+262,Conrad,2,algorithms,big data,big data,594,15,go,MERN
+263,Joel,15,hardware design,frontend development,blockchain,793,45,MERN,python
+264,Matt,3,ios development,natural language processing,ios development,469,34,arduino,verilog
+265,Riley,16,data science,data science,natural language processing,436,26,verilog,c
+266,Vincent,13,machine learning,big data,android app development,122,19,octave,c++
+267,Emory,17,deep learning,full stack web development,full stack web development,81,49,octave,verilog
+268,Isaiah,14,hardware design,game development,backend development,648,9,R,flutter
+269,Nick,13,ios development,android app development,internet of things,273,36,matlab,octave
+270,Ezra,16,software design,competitive programming,frontend development,583,30,MERN,c++
+271,Green,6,algorithms,deep learning,data science,219,27,java,c
+272,Juan,14,software design,game development,competitive programming,311,19,verilog,flutter
+273,Clifton,18,computer vision,competitive programming,ios development,636,32,MERN,R
+274,Lucius,7,hardware design,data structures,algorithms,749,26,java,flutter
+275,Porter,6,competitive programming,data structures,algorithms,569,28,matlab,matlab
+276,Arnold,11,data structures,ios development,data science,731,18,python,MEAN
+277,Bud,2,hardware design,hardware design,android app development,914,32,swift,python
+278,Jeremiah,17,computer vision,data science,algorithms,118,18,octave,MEAN
+279,Taylor,10,backend development,computer vision,full stack web development,356,15,python,octave
+280,Forrest,3,data science,game development,backend development,369,20,java,flutter
+281,Roland,15,internet of things,algorithms,data science,531,17,matlab,R
+282,Spencer,11,data structures,computer vision,software design,217,14,matlab,MERN
+283,Burton,14,internet of things,natural language processing,big data,35,13,swift,python
+284,Don,17,data structures,android app development,ios development,217,25,octave,python
+285,Emmet,12,game development,internet of things,natural language processing,235,5,arduino,MEAN
+286,Gustav,10,data structures,full stack web development,internet of things,440,30,MEAN,MEAN
+287,Louie,9,computer vision,data science,big data,134,29,java,flutter
+288,Morgan,14,internet of things,blockchain,competitive programming,672,38,javascript,swift
+289,Ned,14,internet of things,game development,data science,420,26,c++,MEAN
+290,Van,2,full stack web development,deep learning,ios development,560,26,swift,javascript
+291,Ambrose,17,data structures,android app development,data science,944,47,go,MERN
+292,Chauncey,14,algorithms,competitive programming,natural language processing,692,16,javascript,swift
+293,Elisha,5,big data,algorithms,frontend development,909,17,R,flutter
+294,Ferdinand,18,backend development,backend development,computer vision,935,37,matlab,c
+295,General,7,hardware design,computer vision,frontend development,524,30,go,matlab
+296,Julian,11,data science,backend development,data science,32,41,arduino,verilog
+297,Kenneth,13,backend development,data structures,machine learning,561,29,c++,python
+298,Mitchell,8,backend development,frontend development,ios development,287,22,java,go
+299,Allie,12,ios development,ios development,computer vision,797,45,python,octave
+300,Josh,8,ios development,data science,data science,885,46,javascript,flutter
+301,Judson,13,game development,internet of things,backend development,558,23,go,MERN
+302,Lyman,15,competitive programming,backend development,backend development,723,11,java,javascript
+303,Napoleon,5,big data,big data,data science,753,36,swift,verilog
+304,Pedro,19,competitive programming,ios development,android app development,246,31,javascript,R
+305,Berry,15,algorithms,data science,data structures,196,37,java,MEAN
+306,Dewitt,3,game development,android app development,backend development,30,27,MEAN,c++
+307,Ervin,2,hardware design,game development,algorithms,643,29,flutter,MERN
+308,Forest,14,blockchain,deep learning,android app development,954,7,MEAN,matlab
+309,Lynn,1,software design,android app development,computer vision,897,23,MEAN,MEAN
+310,Pink,17,computer vision,data structures,deep learning,292,20,MERN,arduino
+311,Ruben,1,deep learning,competitive programming,android app development,510,9,c,MEAN
+312,Sanford,5,backend development,full stack web development,machine learning,835,14,arduino,java
+313,Ward,18,data science,frontend development,game development,404,22,javascript,swift
+314,Douglas,14,deep learning,ios development,ios development,494,15,MEAN,flutter
+315,Ole,4,hardware design,blockchain,big data,6,41,arduino,octave
+316,Omer,3,computer vision,machine learning,deep learning,137,42,swift,matlab
+317,Ulysses,1,internet of things,internet of things,data structures,630,1,java,octave
+318,Walker,10,software design,algorithms,natural language processing,600,21,python,python
+319,Wilbert,12,data science,blockchain,ios development,759,48,R,MEAN
+320,Adelbert,12,algorithms,machine learning,frontend development,963,27,python,java
+321,Benjiman,9,data science,deep learning,competitive programming,670,35,verilog,MEAN
+322,Ivan,4,ios development,deep learning,backend development,13,26,matlab,c
+323,Jonas,16,software design,computer vision,data structures,167,31,flutter,MEAN
+324,Major,7,competitive programming,machine learning,full stack web development,13,24,javascript,MEAN
+325,Abner,4,hardware design,competitive programming,blockchain,504,27,MERN,matlab
+326,Archibald,8,game development,data structures,deep learning,256,5,python,R
+327,Caleb,14,big data,ios development,software design,549,21,R,go
+328,Clint,3,full stack web development,game development,big data,606,20,MEAN,arduino
+329,Dudley,20,machine learning,competitive programming,data science,581,22,matlab,arduino
+330,Granville,3,hardware design,android app development,frontend development,138,37,c++,MERN
+331,King,11,data science,data science,data science,399,21,go,MERN
+332,Mary,15,big data,computer vision,game development,508,48,c++,MEAN
+333,Merton,17,android app development,data science,data science,120,21,go,matlab
+334,Antonio,9,natural language processing,computer vision,big data,41,19,swift,javascript
+335,Bennie,13,machine learning,data science,big data,742,16,arduino,matlab
+336,Carroll,18,big data,data science,backend development,140,39,java,matlab
+337,Freeman,10,machine learning,android app development,data science,717,7,c,MERN
+338,Josiah,15,internet of things,backend development,algorithms,403,43,matlab,MEAN
+339,Milo,1,hardware design,hardware design,full stack web development,518,10,c++,c
+340,Royal,12,software design,machine learning,data science,955,30,swift,verilog
+341,Dick,15,deep learning,game development,deep learning,244,21,verilog,MERN
+342,Earle,6,algorithms,internet of things,full stack web development,897,42,c++,MEAN
+343,Elza,11,data structures,machine learning,full stack web development,143,1,octave,matlab
+344,Emerson,1,frontend development,data science,android app development,62,28,MERN,R
+345,Fletcher,13,competitive programming,full stack web development,android app development,64,34,MERN,arduino
+346,Judge,2,computer vision,machine learning,computer vision,501,14,verilog,verilog
+347,Laurence,12,software design,algorithms,natural language processing,810,8,arduino,MEAN
+348,Neil,8,deep learning,deep learning,algorithms,492,36,javascript,R
+349,Roger,20,hardware design,data structures,machine learning,823,18,python,MEAN
+350,Seth,6,big data,competitive programming,blockchain,843,25,javascript,swift
+351,Glen,3,internet of things,deep learning,deep learning,824,21,swift,java
+352,Hugo,9,competitive programming,deep learning,android app development,615,43,flutter,go
+353,Jimmie,17,game development,ios development,algorithms,16,1,MEAN,c++
+354,Johnnie,11,data structures,competitive programming,android app development,2,9,python,arduino
+355,Washington,7,data science,big data,backend development,8,15,matlab,java
+356,Elwood,6,deep learning,deep learning,backend development,57,13,go,python
+357,Gust,18,big data,algorithms,hardware design,877,46,arduino,MEAN
+358,Harmon,8,android app development,computer vision,software design,533,39,MEAN,MERN
+359,Jordan,12,hardware design,data science,big data,306,36,swift,swift
+360,Simeon,9,data structures,hardware design,deep learning,847,12,c,swift
+361,Wayne,18,blockchain,algorithms,backend development,229,6,octave,arduino
+362,Wilber,18,data science,frontend development,data science,311,40,swift,swift
+363,Clem,16,full stack web development,full stack web development,full stack web development,845,32,python,javascript
+364,Evan,13,frontend development,data structures,android app development,342,50,R,R
+365,Frederic,20,blockchain,competitive programming,blockchain,90,43,verilog,MEAN
+366,Irwin,15,computer vision,full stack web development,computer vision,49,2,javascript,matlab
+367,Junius,13,competitive programming,game development,software design,184,3,octave,verilog
+368,Lafayette,20,data structures,big data,internet of things,1,13,go,arduino
+369,Loren,15,hardware design,computer vision,hardware design,132,42,python,go
+370,Madison,5,big data,deep learning,internet of things,814,23,java,c
+371,Mason,8,full stack web development,internet of things,frontend development,468,36,R,go
+372,Orval,9,internet of things,blockchain,android app development,354,46,octave,javascript
+373,Abram,11,competitive programming,full stack web development,machine learning,145,5,c++,octave
+374,Aubrey,14,natural language processing,android app development,frontend development,173,8,go,go
+375,Elliott,1,full stack web development,internet of things,computer vision,319,49,verilog,R
+376,Hans,8,big data,hardware design,algorithms,71,22,MERN,arduino
+377,Karl,11,android app development,backend development,android app development,696,22,R,c++
+378,Minor,8,deep learning,blockchain,internet of things,809,48,go,swift
+379,Wash,1,data structures,full stack web development,full stack web development,89,23,octave,R
+380,Wilfred,8,ios development,computer vision,frontend development,670,2,octave,flutter
+381,Allan,16,hardware design,data structures,hardware design,154,45,arduino,verilog
+382,Alphonse,8,natural language processing,software design,data science,235,39,c,MERN
+383,Dallas,1,machine learning,algorithms,big data,102,48,go,c++
+384,Dee,20,backend development,hardware design,deep learning,927,46,verilog,java
+385,Isiah,8,big data,competitive programming,data structures,723,49,go,flutter
+386,Jason,8,full stack web development,computer vision,frontend development,925,43,java,R
+387,Johnny,3,backend development,backend development,android app development,433,44,R,c++
+388,Lawson,3,computer vision,android app development,computer vision,684,50,c++,arduino
+389,Lew,16,ios development,natural language processing,software design,635,11,javascript,c++
+390,Micheal,17,ios development,android app development,data science,425,27,octave,c++
+391,Orin,10,backend development,backend development,android app development,672,16,octave,R
+392,Addison,15,internet of things,data science,internet of things,706,16,MEAN,python
+393,Cal,13,blockchain,internet of things,blockchain,153,6,MEAN,verilog
+394,Erastus,9,computer vision,frontend development,blockchain,393,25,c,swift
+395,Francisco,18,software design,big data,big data,960,30,c++,matlab
+396,Hardy,19,computer vision,data science,internet of things,235,28,verilog,swift
+397,Lucien,15,machine learning,frontend development,internet of things,950,48,swift,c
+398,Randolph,15,internet of things,natural language processing,hardware design,218,26,arduino,swift
+399,Stewart,13,algorithms,big data,ios development,936,38,python,octave
+400,Vern,1,big data,hardware design,ios development,238,10,octave,octave
+401,Wilmer,8,internet of things,deep learning,frontend development,790,6,javascript,javascript
+402,Zack,6,game development,ios development,android app development,232,41,MERN,arduino
+403,Adrian,8,game development,data structures,algorithms,937,5,go,flutter
+404,Alvah,12,competitive programming,algorithms,android app development,923,24,c++,python
+405,Bertram,17,ios development,data structures,frontend development,178,50,arduino,MERN
+406,Clay,15,frontend development,algorithms,computer vision,304,36,verilog,swift
+407,Ephraim,8,blockchain,data science,algorithms,449,35,swift,c
+408,Fritz,18,hardware design,data science,backend development,74,38,flutter,go
+409,Giles,8,big data,algorithms,frontend development,396,27,octave,java
+410,Grover,6,frontend development,data science,software design,129,27,MEAN,go
+411,Harris,8,data science,blockchain,internet of things,708,6,octave,matlab
+412,Isom,8,backend development,android app development,android app development,389,14,java,python
+413,Jesus,8,android app development,deep learning,data science,754,7,verilog,matlab
+414,Johnie,19,hardware design,software design,frontend development,660,24,MEAN,verilog
+415,Jonathan,11,blockchain,android app development,internet of things,346,13,python,python
+416,Lucian,16,deep learning,hardware design,competitive programming,862,14,MEAN,MEAN
+417,Malcolm,11,blockchain,algorithms,hardware design,446,23,c++,R
+418,Merritt,9,data science,full stack web development,big data,686,32,MEAN,c++
+419,Otho,10,algorithms,algorithms,game development,648,8,matlab,matlab
+420,Perley,8,hardware design,competitive programming,machine learning,6,50,java,c
+421,Rolla,12,algorithms,hardware design,full stack web development,904,32,go,python
+422,Sandy,9,data science,algorithms,computer vision,675,46,c,MEAN
+423,Tomas,11,ios development,full stack web development,deep learning,839,28,javascript,flutter
+424,Wilford,3,deep learning,frontend development,natural language processing,193,26,python,octave
+425,Adolphus,16,machine learning,data structures,algorithms,397,11,javascript,MERN
+426,Angus,4,hardware design,hardware design,full stack web development,48,40,MERN,R
+427,Arther,11,blockchain,frontend development,algorithms,109,7,swift,flutter
+428,Carlos,2,computer vision,data structures,data structures,916,45,MERN,matlab
+429,Cary,1,computer vision,game development,deep learning,583,27,MERN,flutter
+430,Cassius,20,data science,data science,blockchain,147,48,go,MEAN
+431,Davis,16,internet of things,computer vision,big data,319,37,verilog,swift
+432,Hamilton,18,blockchain,machine learning,ios development,546,1,octave,swift
+433,Harve,1,natural language processing,frontend development,algorithms,643,18,java,MEAN
+434,Israel,14,full stack web development,deep learning,deep learning,525,50,c,c++
+435,Leander,12,hardware design,deep learning,software design,693,13,octave,matlab
+436,Melville,7,algorithms,data science,full stack web development,41,13,MERN,python
+437,Merle,7,machine learning,big data,game development,451,35,R,arduino
+438,Murray,18,big data,natural language processing,big data,698,50,octave,swift
+439,Pleasant,13,data science,backend development,full stack web development,87,8,c++,arduino
+440,Sterling,16,deep learning,big data,data science,108,41,flutter,go
+441,Steven,12,frontend development,ios development,competitive programming,356,28,octave,R
+442,Axel,2,internet of things,blockchain,hardware design,268,33,octave,MERN
+443,Boyd,1,android app development,hardware design,ios development,303,6,MERN,c++
+444,Bryant,18,data science,full stack web development,algorithms,963,7,flutter,c++
+445,Clement,4,deep learning,algorithms,blockchain,540,43,javascript,arduino
+446,Erwin,19,android app development,machine learning,software design,856,34,go,octave
+447,Ezekiel,19,data science,hardware design,competitive programming,307,2,swift,R
+448,Foster,4,computer vision,machine learning,natural language processing,817,24,go,c
+449,Frances,14,algorithms,competitive programming,competitive programming,142,41,MERN,swift
+450,Geo,1,big data,internet of things,competitive programming,789,41,c++,verilog
+451,Houston,18,competitive programming,full stack web development,android app development,983,40,flutter,matlab
+452,Issac,11,frontend development,full stack web development,android app development,802,38,java,go
+453,Jules,15,algorithms,data science,hardware design,761,31,swift,octave
+454,Larkin,6,data structures,full stack web development,hardware design,596,23,octave,javascript
+455,Mat,3,blockchain,frontend development,full stack web development,185,29,verilog,arduino
+456,Morton,6,internet of things,machine learning,natural language processing,708,34,java,MERN
+457,Orlando,15,game development,data science,natural language processing,100,32,java,MEAN
+458,Pierce,6,internet of things,game development,internet of things,593,45,verilog,flutter
+459,Prince,19,backend development,competitive programming,backend development,786,33,verilog,matlab
+460,Rollie,5,blockchain,big data,full stack web development,178,49,go,java
+461,Rollin,19,data structures,natural language processing,natural language processing,493,11,MEAN,MERN
+462,Sim,10,android app development,backend development,full stack web development,16,23,java,c
+463,Stuart,11,backend development,ios development,data science,64,29,go,c++
+464,Wilburn,7,deep learning,natural language processing,natural language processing,75,43,MERN,verilog
+465,Bennett,2,algorithms,competitive programming,hardware design,358,10,c++,flutter
+466,Casper,20,android app development,deep learning,big data,660,46,verilog,octave
+467,Christ,17,data structures,computer vision,big data,664,27,MERN,MEAN
+468,Dell,2,internet of things,android app development,hardware design,481,22,javascript,flutter
+469,Egbert,16,ios development,big data,data science,156,31,java,MERN
+470,Elmo,2,android app development,backend development,data structures,503,18,python,java
+471,Fay,8,ios development,ios development,hardware design,173,31,R,swift
+472,Gabriel,16,software design,data science,hardware design,433,22,go,flutter
+473,Hector,10,android app development,natural language processing,blockchain,543,2,MERN,MERN
+474,Horatio,17,full stack web development,algorithms,blockchain,504,50,verilog,matlab
+475,Lige,19,data science,hardware design,big data,282,28,octave,swift
+476,Saul,14,algorithms,frontend development,android app development,694,33,c,matlab
+477,Smith,4,data structures,algorithms,competitive programming,526,29,R,MERN
+478,Squire,8,big data,game development,deep learning,714,35,R,java
+479,Tobe,6,algorithms,data structures,android app development,258,17,flutter,arduino
+480,Tommie,10,backend development,game development,frontend development,192,19,MEAN,R
+481,Wyatt,1,blockchain,natural language processing,computer vision,817,44,MERN,MEAN
+482,Alford,12,full stack web development,data structures,software design,84,32,arduino,python
+483,Alma,19,deep learning,big data,software design,771,50,swift,octave
+484,Alton,18,machine learning,backend development,natural language processing,510,20,matlab,go
+485,Andres,19,computer vision,big data,algorithms,714,27,swift,javascript
+486,Burl,19,full stack web development,data science,android app development,9,23,MEAN,flutter
+487,Cicero,17,backend development,android app development,machine learning,985,23,c++,java
+488,Dean,11,computer vision,computer vision,blockchain,999,15,python,python
+489,Dorsey,14,software design,data structures,deep learning,159,41,MEAN,MERN
+490,Enos,15,game development,android app development,hardware design,110,27,python,c
+491,Howell,2,data science,blockchain,competitive programming,534,26,swift,java
+492,Lou,4,hardware design,hardware design,android app development,151,43,octave,swift
+493,Loyd,16,software design,deep learning,machine learning,535,42,MERN,python
+494,Mahlon,10,ios development,full stack web development,hardware design,484,17,MEAN,swift
+495,Nat,13,computer vision,machine learning,big data,273,26,octave,go
+496,Omar,2,ios development,backend development,data science,209,45,java,c++
+497,Oran,5,data science,internet of things,software design,899,40,R,swift
+498,Parker,20,backend development,data science,full stack web development,812,1,c++,go
+499,Raleigh,6,data science,data science,full stack web development,165,35,verilog,arduino
+500,Reginald,11,competitive programming,android app development,blockchain,202,39,arduino,c
+501,Stella,13,backend development,competitive programming,computer vision,318,6,arduino,java
+502,Sallie,20,software design,hardware design,internet of things,293,30,R,flutter
+503,Nettie,15,natural language processing,data science,blockchain,113,30,verilog,flutter
+504,Etta,20,internet of things,ios development,algorithms,119,45,c,c++
+505,Harriet,17,backend development,internet of things,data science,848,48,octave,MERN
+506,Sadie,10,full stack web development,full stack web development,software design,793,15,octave,python
+507,Katie,19,data structures,natural language processing,android app development,813,10,javascript,arduino
+508,Lydia,13,software design,internet of things,algorithms,330,20,flutter,javascript
+509,Kate,18,data science,computer vision,frontend development,458,8,flutter,c
+510,Mollie,15,data science,big data,big data,780,5,c,c
+511,Lulu,13,ios development,computer vision,hardware design,938,30,octave,R
+512,Nannie,3,blockchain,big data,machine learning,50,7,go,swift
+513,Lottie,20,big data,data structures,internet of things,149,28,R,R
+514,Belle,3,internet of things,computer vision,frontend development,505,3,flutter,javascript
+515,Charlotte,20,frontend development,blockchain,frontend development,203,16,flutter,MERN
+516,Amelia,5,machine learning,internet of things,frontend development,857,28,javascript,octave
+517,Hannah,13,game development,data structures,data science,26,36,python,c++
+518,Jane,16,frontend development,blockchain,full stack web development,304,42,c++,MEAN
+519,Emily,5,algorithms,data science,data science,604,20,MERN,javascript
+520,Matilda,16,natural language processing,computer vision,data structures,306,13,arduino,MEAN
+521,Henrietta,16,data structures,hardware design,software design,904,11,arduino,javascript
+522,Sara,16,software design,hardware design,game development,497,9,matlab,MEAN
+523,Estella,1,computer vision,blockchain,data science,450,2,MERN,MERN
+524,Theresa,19,backend development,full stack web development,internet of things,482,32,arduino,octave
+525,Josie,2,game development,natural language processing,natural language processing,910,10,verilog,swift
+526,Sophia,5,deep learning,data science,game development,959,19,R,MERN
+527,Anne,8,data science,android app development,big data,619,6,javascript,R
+528,Delia,8,ios development,blockchain,internet of things,247,33,arduino,go
+529,Louisa,2,machine learning,software design,natural language processing,660,47,javascript,arduino
+530,Mayme,4,backend development,ios development,software design,94,35,R,R
+531,Estelle,8,competitive programming,big data,full stack web development,420,47,flutter,matlab
+532,Nina,20,android app development,backend development,software design,597,1,MERN,flutter
+533,Bettie,15,game development,full stack web development,algorithms,427,13,flutter,R
+534,Luella,6,deep learning,game development,game development,462,32,java,swift
+535,Inez,12,internet of things,competitive programming,blockchain,404,1,c,arduino
+536,Lela,13,software design,game development,game development,337,22,arduino,MEAN
+537,Rosie,16,software design,data structures,machine learning,363,43,javascript,arduino
+538,Millie,11,internet of things,algorithms,hardware design,472,8,MEAN,MEAN
+539,Janie,2,machine learning,competitive programming,machine learning,801,16,go,flutter
+540,Cornelia,17,internet of things,algorithms,internet of things,567,39,c,javascript
+541,Victoria,3,deep learning,blockchain,blockchain,596,13,python,octave
+542,Celia,6,algorithms,natural language processing,deep learning,155,35,flutter,verilog
+543,Christine,20,data science,game development,ios development,780,9,go,MERN
+544,Birdie,4,internet of things,natural language processing,ios development,666,10,verilog,go
+545,Harriett,6,game development,computer vision,algorithms,985,19,octave,verilog
+546,Mable,3,computer vision,deep learning,big data,595,44,javascript,c++
+547,Myra,13,frontend development,natural language processing,big data,149,14,MERN,arduino
+548,Sophie,5,machine learning,computer vision,big data,688,13,c++,c
+549,Tillie,16,algorithms,backend development,big data,197,12,octave,flutter
+550,Isabel,1,blockchain,big data,backend development,204,18,c++,arduino
+551,Sylvia,5,internet of things,full stack web development,computer vision,463,29,javascript,MERN
+552,Isabelle,13,frontend development,full stack web development,game development,962,28,verilog,swift
+553,Leila,7,data structures,game development,data structures,711,31,MERN,MEAN
+554,Sally,9,ios development,game development,android app development,306,1,MEAN,javascript
+555,Ina,11,software design,hardware design,data science,819,1,octave,R
+556,Nell,2,android app development,android app development,software design,289,24,matlab,javascript
+557,Alberta,8,algorithms,machine learning,full stack web development,131,46,swift,verilog
+558,Katharine,8,computer vision,hardware design,ios development,508,28,flutter,MERN
+559,Rena,14,competitive programming,data structures,algorithms,952,24,verilog,python
+560,Mina,7,software design,big data,deep learning,475,37,matlab,c++
+561,Mathilda,13,blockchain,blockchain,computer vision,862,19,python,c++
+562,Dollie,1,computer vision,software design,hardware design,371,20,c++,flutter
+563,Hettie,13,deep learning,game development,machine learning,446,8,javascript,flutter
+564,Fanny,9,ios development,internet of things,full stack web development,580,14,octave,flutter
+565,Lenora,20,software design,natural language processing,algorithms,768,33,MEAN,c
+566,Adelaide,18,algorithms,software design,full stack web development,1000,50,c++,R
+567,Lelia,7,android app development,ios development,natural language processing,893,46,matlab,R
+568,Nelle,15,hardware design,hardware design,full stack web development,859,42,javascript,go
+569,Sue,4,computer vision,ios development,competitive programming,420,22,python,flutter
+570,Johanna,17,software design,hardware design,competitive programming,501,14,MEAN,octave
+571,Lilly,2,android app development,data science,natural language processing,430,8,flutter,javascript
+572,Lucinda,9,full stack web development,data science,android app development,316,50,MERN,c
+573,Minerva,10,software design,natural language processing,frontend development,147,35,python,python
+574,Lettie,16,internet of things,full stack web development,machine learning,671,40,flutter,javascript
+575,Roxie,8,natural language processing,algorithms,competitive programming,159,22,R,MEAN
+576,Helena,17,hardware design,computer vision,deep learning,422,11,c++,java
+577,Hilda,17,ios development,software design,data science,552,45,MEAN,flutter
+578,Hulda,10,computer vision,data structures,computer vision,520,30,javascript,flutter
+579,Genevieve,12,frontend development,blockchain,internet of things,370,13,flutter,R
+580,Cordelia,15,frontend development,competitive programming,backend development,31,28,flutter,flutter
+581,Jeanette,9,natural language processing,data science,full stack web development,118,11,R,MEAN
+582,Adeline,1,machine learning,natural language processing,game development,571,41,swift,matlab
+583,Leah,5,full stack web development,software design,algorithms,157,24,c++,c++
+584,Lura,6,computer vision,data science,algorithms,188,33,python,MEAN
+585,Mittie,6,full stack web development,hardware design,android app development,910,33,swift,c
+586,Isabella,20,data science,backend development,data structures,952,42,go,verilog
+587,Olga,11,competitive programming,data science,big data,942,46,java,javascript
+588,Phoebe,11,algorithms,full stack web development,data structures,10,12,swift,javascript
+589,Teresa,19,data structures,blockchain,data science,251,37,octave,arduino
+590,Lida,12,blockchain,full stack web development,competitive programming,642,32,flutter,c
+591,Lina,9,machine learning,machine learning,backend development,475,21,swift,R
+592,Marguerite,12,frontend development,software design,backend development,362,29,arduino,octave
+593,Claudia,9,data structures,android app development,full stack web development,152,3,arduino,c
+594,Cecelia,6,deep learning,internet of things,full stack web development,231,7,matlab,javascript
+595,Bess,19,game development,backend development,frontend development,830,16,c++,c++
+596,Emilie,5,data structures,data structures,game development,637,30,matlab,python
+597,Rosetta,5,algorithms,ios development,ios development,571,7,c,R
+598,Myrtie,1,competitive programming,data structures,computer vision,192,31,c++,R
+599,Cecilia,12,blockchain,natural language processing,machine learning,364,28,matlab,MERN
+600,Olivia,12,computer vision,backend development,full stack web development,433,39,java,go
+601,Ophelia,9,data science,data structures,competitive programming,10,26,arduino,javascript
+602,Elnora,12,game development,backend development,internet of things,235,1,c++,octave
+603,Violet,19,game development,full stack web development,full stack web development,977,35,arduino,javascript
+604,Adele,19,frontend development,data structures,data structures,479,44,MERN,flutter
+605,Lily,6,internet of things,competitive programming,data structures,713,12,MEAN,MEAN
+606,Loretta,13,frontend development,data science,natural language processing,332,7,python,matlab
+607,Madge,14,backend development,ios development,machine learning,661,33,arduino,go
+608,Polly,12,hardware design,deep learning,blockchain,929,49,go,arduino
+609,Eugenia,1,computer vision,machine learning,backend development,609,24,go,verilog
+610,Lucile,16,hardware design,data structures,software design,136,50,verilog,MEAN
+611,Mabelle,15,game development,machine learning,frontend development,833,3,c,MEAN
+612,Rosalie,15,competitive programming,game development,data science,490,48,java,c
+613,Kittie,17,data structures,android app development,blockchain,959,3,octave,python
+614,Meta,20,machine learning,deep learning,software design,190,7,verilog,octave
+615,Angie,3,computer vision,competitive programming,internet of things,343,3,c,go
+616,Georgiana,6,competitive programming,backend development,data science,84,50,MERN,MERN
+617,Lila,10,deep learning,game development,internet of things,493,8,swift,swift
+618,Regina,1,game development,blockchain,game development,32,14,flutter,c
+619,Selma,16,android app development,big data,big data,511,4,octave,swift
+620,Wilhelmina,11,android app development,game development,internet of things,969,1,flutter,java
+621,Bridget,11,machine learning,data structures,deep learning,94,15,MEAN,swift
+622,Lilla,1,data science,algorithms,algorithms,947,44,MEAN,go
+623,Malinda,1,data science,data structures,data science,81,20,go,octave
+624,Vina,7,deep learning,hardware design,machine learning,947,13,python,flutter
+625,Freda,12,big data,game development,data science,654,39,R,MEAN
+626,Gertie,10,internet of things,ios development,data science,217,42,go,R
+627,Jeannette,4,algorithms,game development,software design,107,24,javascript,javascript
+628,Louella,20,data science,internet of things,deep learning,416,15,arduino,verilog
+629,Mandy,10,hardware design,backend development,computer vision,717,36,MEAN,python
+630,Roberta,3,deep learning,game development,big data,719,6,c++,python
+631,Corinne,9,deep learning,machine learning,hardware design,927,7,verilog,MEAN
+632,Lyda,2,internet of things,big data,software design,99,33,c,java
+633,Naomi,3,ios development,data science,blockchain,378,3,R,go
+634,Norma,3,deep learning,computer vision,big data,675,28,MEAN,javascript
+635,Margie,14,data science,full stack web development,frontend development,692,9,java,arduino
+636,Nona,10,hardware design,android app development,backend development,607,40,python,arduino
+637,Zella,12,computer vision,big data,deep learning,228,2,python,matlab
+638,Dovie,10,deep learning,hardware design,software design,827,17,swift,verilog
+639,Elvira,16,game development,android app development,frontend development,571,28,R,verilog
+640,Erma,19,natural language processing,backend development,data structures,180,23,matlab,arduino
+641,Irma,16,game development,ios development,computer vision,19,7,matlab,R
+642,Leota,17,backend development,competitive programming,frontend development,56,29,R,javascript
+643,Blanch,3,data science,machine learning,data science,558,22,matlab,swift
+644,Charity,14,android app development,blockchain,software design,972,28,verilog,c
+645,Lorena,13,hardware design,competitive programming,algorithms,948,32,flutter,R
+646,Lucretia,7,software design,natural language processing,full stack web development,167,4,MERN,c
+647,Orpha,9,natural language processing,machine learning,hardware design,143,10,c++,swift
+648,Alvina,6,internet of things,data science,data science,306,23,flutter,c
+649,Annette,17,big data,ios development,android app development,397,16,MERN,R
+650,Catharine,14,data science,full stack web development,data science,133,34,R,java
+651,Elma,20,android app development,internet of things,backend development,388,35,MERN,verilog
+652,Geneva,11,blockchain,frontend development,internet of things,947,16,octave,javascript
+653,Leora,12,deep learning,frontend development,machine learning,335,8,MEAN,matlab
+654,Lona,2,game development,deep learning,deep learning,6,11,python,verilog
+655,Miriam,3,data science,blockchain,internet of things,179,25,java,matlab
+656,Zora,13,internet of things,big data,blockchain,79,13,MEAN,java
+657,Octavia,15,data science,blockchain,data science,980,40,matlab,c
+658,Sudie,15,big data,full stack web development,big data,185,9,c++,c
+659,Zula,4,full stack web development,natural language processing,internet of things,340,9,MEAN,octave
+660,Adella,15,backend development,frontend development,backend development,522,24,swift,c
+661,Frieda,2,software design,frontend development,blockchain,974,45,c,octave
+662,Joanna,13,competitive programming,hardware design,natural language processing,644,18,c++,c++
+663,Leonora,16,ios development,ios development,blockchain,355,20,R,c
+664,Priscilla,11,big data,backend development,frontend development,877,29,flutter,MERN
+665,Tennie,19,data science,natural language processing,ios development,634,32,c++,matlab
+666,Angeline,7,deep learning,frontend development,deep learning,602,33,c,c
+667,Docia,11,blockchain,computer vision,competitive programming,115,2,MEAN,matlab
+668,Ettie,5,data structures,data structures,competitive programming,1,29,swift,octave
+669,Flossie,8,software design,computer vision,data science,452,29,javascript,matlab
+670,Hanna,9,full stack web development,backend development,data science,418,25,flutter,go
+671,Letha,17,data science,backend development,data science,82,40,python,c
+672,Minta,9,machine learning,ios development,software design,998,48,python,python
+673,Retta,1,data science,data structures,natural language processing,573,27,octave,flutter
+674,Rosella,14,computer vision,software design,internet of things,311,15,matlab,MERN
+675,Adah,4,frontend development,game development,data structures,963,17,java,java
+676,Berta,16,machine learning,software design,data science,757,18,c,verilog
+677,Elisabeth,8,data science,frontend development,algorithms,605,15,java,c
+678,Elise,10,software design,computer vision,android app development,754,4,go,matlab
+679,Leola,5,frontend development,backend development,big data,358,1,python,matlab
+680,Margret,7,algorithms,internet of things,blockchain,1000,3,c,java
+681,Adaline,14,full stack web development,ios development,data science,212,13,MEAN,go
+682,Idella,5,machine learning,hardware design,algorithms,16,14,java,c
+683,Juanita,2,blockchain,android app development,software design,786,21,javascript,java
+684,Lenna,14,deep learning,hardware design,deep learning,740,34,flutter,c++
+685,Lucie,20,full stack web development,deep learning,big data,942,3,verilog,MEAN
+686,Missouri,19,game development,internet of things,machine learning,429,36,swift,swift
+687,Nola,1,natural language processing,internet of things,natural language processing,236,44,java,flutter
+688,Zoe,17,competitive programming,deep learning,frontend development,658,12,flutter,go
+689,Eda,2,competitive programming,android app development,frontend development,625,29,c++,matlab
+690,Isabell,17,full stack web development,ios development,backend development,361,44,matlab,matlab
+691,Julie,14,deep learning,ios development,data science,888,26,c++,java
+692,Letitia,7,backend development,natural language processing,data science,491,50,octave,octave
+693,Madeline,6,android app development,data science,algorithms,405,32,c++,c
+694,Malissa,19,data science,data structures,hardware design,795,33,c++,matlab
+695,Mariah,18,natural language processing,game development,natural language processing,818,38,javascript,javascript
+696,Pattie,2,machine learning,full stack web development,ios development,508,6,c++,arduino
+697,Almeda,3,game development,big data,data science,287,2,verilog,verilog
+698,Aurelia,3,frontend development,natural language processing,big data,261,30,java,c++
+699,Dolly,7,ios development,backend development,data structures,526,28,R,flutter
+700,Jannie,18,algorithms,algorithms,competitive programming,650,23,swift,python
+701,Kathrine,6,competitive programming,blockchain,data science,491,8,flutter,flutter
+702,Lavinia,1,competitive programming,data structures,data structures,445,12,java,javascript
+703,Marietta,13,hardware design,big data,game development,801,17,javascript,java
+704,Melvina,2,full stack web development,blockchain,natural language processing,216,13,MERN,arduino
+705,Ona,15,data science,data science,competitive programming,473,40,swift,MEAN
+706,Pinkie,1,software design,ios development,data science,474,6,javascript,verilog
+707,Susanna,9,deep learning,data structures,computer vision,920,19,verilog,verilog
+708,Chloe,14,algorithms,full stack web development,game development,499,26,R,go
+709,Elsa,2,deep learning,natural language processing,game development,539,13,javascript,arduino
+710,Matie,15,game development,android app development,game development,704,10,c,matlab
+711,Pearle,10,data structures,game development,natural language processing,214,50,python,arduino
+712,Vesta,7,machine learning,frontend development,data structures,119,32,java,c
+713,Vinnie,16,big data,ios development,data science,353,48,verilog,MERN
+714,Antoinette,2,competitive programming,ios development,android app development,249,16,java,go
+715,Clementine,19,computer vision,deep learning,ios development,274,31,c++,flutter
+716,Edythe,11,big data,blockchain,game development,995,46,flutter,c
+717,Harriette,7,game development,machine learning,deep learning,870,11,java,verilog
+718,Libbie,5,machine learning,ios development,software design,228,4,c,python
+719,Lilian,17,machine learning,data science,data science,130,48,c++,go
+720,Lutie,15,algorithms,natural language processing,data science,907,30,arduino,octave
+721,Magdalena,2,hardware design,software design,internet of things,565,34,R,MEAN
+722,Meda,6,machine learning,deep learning,blockchain,321,35,MERN,matlab
+723,Rita,16,frontend development,machine learning,hardware design,983,31,MEAN,octave
+724,Tena,5,backend development,hardware design,game development,731,21,go,javascript
+725,Zelma,8,natural language processing,data science,android app development,284,1,matlab,flutter
+726,Adelia,3,algorithms,data structures,data science,532,9,octave,javascript
+727,Annetta,2,ios development,algorithms,android app development,325,1,R,octave
+728,Dona,9,deep learning,game development,frontend development,60,47,flutter,c++
+729,Elizebeth,18,deep learning,data science,natural language processing,429,39,matlab,verilog
+730,Georgianna,5,natural language processing,hardware design,backend development,566,5,javascript,arduino
+731,Gracie,16,computer vision,deep learning,full stack web development,964,49,c,flutter
+732,Iona,1,android app development,data science,game development,840,22,c++,MEAN
+733,Leta,1,deep learning,backend development,natural language processing,938,41,octave,matlab
+734,Liza,5,internet of things,software design,computer vision,212,19,matlab,verilog
+735,Mertie,14,algorithms,computer vision,natural language processing,21,24,java,go
+736,Molly,18,full stack web development,full stack web development,software design,919,37,R,python
+737,Neva,14,backend development,frontend development,competitive programming,773,2,go,verilog
+738,Oma,12,machine learning,natural language processing,full stack web development,841,6,java,go
+739,Alida,2,machine learning,hardware design,big data,331,24,octave,python
+740,Cecile,20,data science,android app development,frontend development,849,5,swift,matlab
+741,Ernestine,1,hardware design,hardware design,natural language processing,289,17,R,c++
+742,Evie,20,algorithms,backend development,full stack web development,458,6,MEAN,matlab
+743,Helene,15,computer vision,algorithms,full stack web development,348,7,MERN,java
+744,Minna,13,android app development,big data,data science,47,34,MERN,MEAN
+745,Myrta,14,internet of things,natural language processing,frontend development,346,21,java,go
+746,Prudence,16,software design,android app development,deep learning,480,8,python,c++
+747,Queen,10,software design,data structures,machine learning,976,44,matlab,R
+748,Rilla,7,big data,data structures,software design,191,9,verilog,go
+749,Savannah,6,machine learning,natural language processing,software design,829,31,javascript,arduino
+750,Tessie,20,hardware design,software design,algorithms,894,25,matlab,java
+751,Agatha,20,full stack web development,game development,natural language processing,197,18,MERN,swift
+752,America,7,data structures,hardware design,machine learning,502,9,python,javascript
+753,Anita,15,ios development,android app development,algorithms,790,18,verilog,R
+754,Arminta,9,backend development,blockchain,data science,79,50,MERN,c
+755,Dorothea,10,competitive programming,natural language processing,data science,670,42,MEAN,MERN
+756,Luvenia,14,algorithms,competitive programming,natural language processing,760,44,flutter,MEAN
+757,Marjorie,3,computer vision,algorithms,data science,449,37,octave,verilog
+758,Maybelle,16,data science,hardware design,internet of things,232,25,swift,octave
+759,Mellie,20,full stack web development,android app development,frontend development,331,14,R,arduino
+760,Nan,15,data structures,data structures,game development,824,11,javascript,c++
+761,Velma,8,internet of things,backend development,software design,818,42,flutter,octave
+762,Constance,14,natural language processing,data structures,competitive programming,682,44,verilog,go
+763,Ila,11,blockchain,competitive programming,data structures,404,47,c++,matlab
+764,Iola,18,competitive programming,competitive programming,android app development,98,47,c,matlab
+765,Louvenia,17,deep learning,software design,software design,987,40,c++,matlab
+766,Lucia,3,data structures,hardware design,data science,638,34,c++,swift
+767,Ludie,3,algorithms,hardware design,android app development,252,15,arduino,go
+768,Luna,14,internet of things,data structures,data science,308,34,go,verilog
+769,Metta,17,game development,data structures,natural language processing,250,46,octave,javascript
+770,Phebe,1,machine learning,full stack web development,data science,352,2,MEAN,java
+771,Sophronia,12,android app development,algorithms,ios development,134,47,MERN,octave
+772,Adda,9,internet of things,full stack web development,data science,910,6,MEAN,R
+773,Avis,15,algorithms,big data,data science,500,42,arduino,c++
+774,Betsy,4,data science,algorithms,backend development,234,37,go,R
+775,Cordie,9,data structures,frontend development,hardware design,506,21,flutter,R
+776,Emmaline,7,algorithms,natural language processing,big data,858,11,python,javascript
+777,Ethelyn,20,algorithms,android app development,data science,956,13,go,swift
+778,Hortense,16,full stack web development,blockchain,frontend development,826,12,c,arduino
+779,Marcella,11,natural language processing,algorithms,frontend development,530,6,matlab,MEAN
+780,Melinda,2,frontend development,blockchain,game development,501,18,c++,R
+781,Mona,19,computer vision,internet of things,game development,427,45,javascript,python
+782,Odessa,9,android app development,full stack web development,data science,415,12,arduino,R
+783,Veronica,1,big data,full stack web development,internet of things,63,46,python,javascript
+784,Aimee,9,data science,natural language processing,frontend development,870,32,swift,MERN
+785,Annabel,18,software design,full stack web development,machine learning,351,9,octave,swift
+786,Ava,19,android app development,competitive programming,data science,913,41,java,c
+787,Bella,4,data structures,blockchain,natural language processing,369,7,python,matlab
+788,Carolina,1,ios development,ios development,blockchain,576,44,c,python
+789,Cathrine,1,data science,data science,frontend development,946,16,R,go
+790,Christena,1,hardware design,internet of things,computer vision,797,40,c++,c++
+791,Dena,16,data structures,blockchain,natural language processing,54,4,R,matlab
+792,Eleanore,14,internet of things,frontend development,competitive programming,19,36,java,c++
+793,Elmira,7,deep learning,backend development,computer vision,601,16,arduino,MEAN
+794,Jenny,1,machine learning,hardware design,computer vision,777,31,MEAN,swift
+795,Kizzie,11,data science,natural language processing,internet of things,885,46,python,R
+796,Loula,3,computer vision,internet of things,competitive programming,150,34,python,flutter
+797,Magdalene,18,blockchain,deep learning,competitive programming,858,31,arduino,R
+798,Mettie,17,data science,ios development,android app development,373,45,MEAN,c++
+799,Mintie,11,ios development,frontend development,big data,712,37,matlab,MEAN
+800,Peggy,15,software design,deep learning,data structures,696,6,java,MERN
+801,Reba,14,competitive programming,backend development,data science,591,31,java,python
+802,Serena,5,data science,ios development,machine learning,325,22,matlab,java
+803,Vida,10,deep learning,big data,android app development,813,4,javascript,MEAN
+804,Zada,20,algorithms,algorithms,game development,1,3,verilog,javascript
+805,Abigail,11,competitive programming,algorithms,algorithms,860,13,verilog,R
+806,Celestine,3,data science,computer vision,algorithms,51,6,flutter,go
+807,Celina,10,blockchain,algorithms,computer vision,685,26,MERN,MERN
+808,Daisie,18,full stack web development,deep learning,blockchain,799,24,MERN,MERN
+809,Dessa,13,algorithms,game development,computer vision,409,18,java,arduino
+810,Easter,17,natural language processing,data structures,game development,908,1,flutter,matlab
+811,Emelia,12,computer vision,software design,software design,677,26,java,MEAN
+812,Emmie,10,machine learning,blockchain,algorithms,629,32,python,c++
+813,Imogene,6,machine learning,deep learning,ios development,28,30,flutter,javascript
+814,India,2,hardware design,frontend development,full stack web development,414,16,go,matlab
+815,Jeanne,17,data science,software design,full stack web development,556,21,go,MERN
+816,Lenore,5,game development,data science,game development,675,29,c,octave
+817,Liddie,12,data science,frontend development,blockchain,305,46,verilog,matlab
+818,Lotta,14,frontend development,full stack web development,natural language processing,365,26,python,matlab
+819,Mame,14,frontend development,backend development,competitive programming,921,33,octave,javascript
+820,Nevada,16,data science,data structures,hardware design,197,47,verilog,c
+821,Rachael,14,game development,computer vision,computer vision,472,47,c++,javascript
+822,Sina,17,data science,data science,game development,34,24,go,c++
+823,Willa,3,competitive programming,data science,backend development,952,30,MEAN,swift
+824,Aline,3,backend development,competitive programming,algorithms,309,7,c++,c++
+825,Daisey,20,full stack web development,data science,data structures,273,46,verilog,MERN
+826,Dorcas,13,competitive programming,computer vision,data structures,239,15,MERN,arduino
+827,Edmonia,10,computer vision,frontend development,algorithms,762,28,c,matlab
+828,Effa,18,blockchain,deep learning,ios development,436,14,matlab,javascript
+829,Eldora,7,ios development,game development,hardware design,398,29,go,arduino
+830,Eloise,3,blockchain,blockchain,data science,628,8,arduino,MERN
+831,Emmer,7,algorithms,natural language processing,blockchain,410,14,python,octave
+832,Era,14,ios development,game development,frontend development,173,40,javascript,c
+833,Gena,4,hardware design,full stack web development,data science,804,30,octave,swift
+834,Iris,8,competitive programming,big data,game development,19,34,go,R
+835,Izora,15,software design,internet of things,deep learning,362,22,MERN,verilog
+836,Lissie,4,data science,backend development,full stack web development,364,13,octave,javascript
+837,Mallie,10,blockchain,data science,game development,109,18,python,verilog
+838,Malvina,9,android app development,game development,ios development,861,18,arduino,R
+839,Mathilde,10,natural language processing,hardware design,algorithms,399,28,matlab,swift
+840,Mazie,19,computer vision,data structures,game development,737,18,arduino,arduino
+841,Queenie,15,computer vision,big data,internet of things,760,22,MERN,MERN
+842,Rosina,6,full stack web development,blockchain,data science,848,43,octave,MERN
+843,Salome,4,competitive programming,blockchain,data structures,922,24,java,javascript
+844,Theodora,19,natural language processing,data structures,algorithms,74,26,c++,c
+845,Therese,8,blockchain,deep learning,natural language processing,885,46,MERN,R
+846,Vena,10,game development,computer vision,big data,333,39,R,MEAN
+847,Wanda,1,algorithms,computer vision,competitive programming,368,7,arduino,java
+848,Wilda,17,frontend development,blockchain,android app development,499,26,arduino,MEAN
+849,Altha,18,hardware design,software design,competitive programming,710,8,R,go
+850,Anastasia,5,backend development,android app development,game development,256,42,c++,go
+851,Besse,11,android app development,machine learning,data science,951,13,javascript,arduino
+852,Birtie,1,android app development,blockchain,frontend development,180,43,R,c++
+853,Clarissa,8,data structures,competitive programming,data science,535,43,javascript,javascript
+854,Delilah,19,frontend development,hardware design,data structures,795,17,go,python
+855,Diana,18,big data,deep learning,computer vision,967,7,arduino,MERN
+856,Emelie,15,ios development,hardware design,software design,134,20,verilog,MERN
+857,Erna,2,big data,algorithms,ios development,167,28,c++,python
+858,Florida,10,game development,frontend development,blockchain,547,13,python,MEAN
+859,Frona,5,game development,algorithms,hardware design,602,11,arduino,MERN
+860,Hilma,5,game development,internet of things,deep learning,655,43,R,javascript
+861,Juliet,16,algorithms,computer vision,data structures,547,3,swift,R
+862,Leonie,17,competitive programming,computer vision,competitive programming,596,45,java,R
+863,Lugenia,17,big data,machine learning,backend development,62,31,c++,javascript
+864,Mammie,3,data science,frontend development,algorithms,588,9,python,verilog
+865,Manda,12,competitive programming,full stack web development,backend development,202,31,R,arduino
+866,Manerva,3,internet of things,data science,big data,69,48,MERN,MEAN
+867,Manie,17,frontend development,blockchain,ios development,681,15,arduino,matlab
+868,Nella,3,deep learning,full stack web development,full stack web development,364,38,R,javascript
+869,Paulina,9,blockchain,deep learning,backend development,685,50,flutter,c
+870,Philomena,8,android app development,data science,data structures,177,38,python,swift
+871,Selina,19,natural language processing,machine learning,blockchain,310,26,octave,javascript
+872,Sena,9,hardware design,backend development,frontend development,915,3,swift,R
+873,Theodosia,20,computer vision,data structures,data structures,755,36,java,python
+874,Una,4,deep learning,deep learning,frontend development,728,38,octave,arduino
+875,Adela,11,frontend development,algorithms,software design,397,29,R,java
+876,Althea,17,full stack web development,frontend development,deep learning,519,47,java,MERN
+877,Amalia,16,data science,full stack web development,frontend development,757,22,matlab,c
+878,Amber,8,computer vision,competitive programming,algorithms,660,39,MERN,MEAN
+879,Angelina,17,competitive programming,competitive programming,android app development,33,16,arduino,matlab
+880,Annabelle,11,ios development,computer vision,computer vision,250,18,matlab,arduino
+881,Anner,20,blockchain,data science,game development,4,2,javascript,swift
+882,Arie,16,data science,android app development,computer vision,203,37,c++,java
+883,Clarice,3,data structures,competitive programming,full stack web development,120,16,python,c
+884,Corda,14,big data,hardware design,ios development,604,8,javascript,java
+885,Corrie,12,game development,data structures,full stack web development,749,2,flutter,c
+886,Dellar,9,deep learning,data science,deep learning,491,25,java,go
+887,Donie,17,software design,algorithms,full stack web development,291,12,flutter,MEAN
+888,Elda,2,data science,machine learning,ios development,494,35,octave,flutter
+889,Elinor,3,game development,frontend development,competitive programming,742,30,python,MERN
+890,Emeline,2,big data,android app development,data science,283,41,swift,octave
+891,Emilia,20,algorithms,big data,full stack web development,590,43,python,verilog
+892,Etha,11,competitive programming,deep learning,computer vision,317,30,MERN,MERN
+893,Indiana,10,algorithms,machine learning,internet of things,923,17,python,R
+894,Ione,14,machine learning,natural language processing,ios development,816,36,R,javascript
+895,Josiephine,9,competitive programming,backend development,frontend development,682,32,arduino,go
+896,Kitty,19,big data,algorithms,big data,574,46,javascript,c++
+897,Lavina,13,big data,computer vision,internet of things,804,48,c,octave
+898,Leda,6,algorithms,natural language processing,full stack web development,112,1,arduino,octave
+899,Letta,13,machine learning,ios development,data structures,949,46,go,flutter
+900,Mahala,19,data science,computer vision,software design,658,4,java,go
+901,Marcia,12,natural language processing,computer vision,internet of things,243,31,swift,MEAN
+902,Margarette,1,algorithms,game development,blockchain,959,37,R,verilog
+903,Maudie,16,algorithms,internet of things,blockchain,628,8,java,matlab
+904,Maye,6,blockchain,data structures,full stack web development,826,23,MERN,swift
+905,Norah,11,internet of things,backend development,internet of things,966,37,R,arduino
+906,Patty,3,big data,data science,data science,452,11,octave,c
+907,Paula,19,natural language processing,natural language processing,hardware design,612,3,swift,javascript
+908,Permelia,7,deep learning,deep learning,data structures,615,12,python,arduino
+909,Rosalia,2,frontend development,frontend development,android app development,269,48,c++,MEAN
+910,Roxanna,2,hardware design,backend development,data science,262,42,python,java
+911,Sula,12,full stack web development,competitive programming,algorithms,581,42,matlab,verilog
+912,Vada,10,frontend development,android app development,internet of things,740,48,c++,octave
+913,Winnifred,16,internet of things,backend development,competitive programming,378,44,go,python
+914,Adline,16,android app development,ios development,game development,365,17,java,swift
+915,Almira,20,algorithms,android app development,data science,540,15,verilog,arduino
+916,Alvena,20,software design,machine learning,software design,802,19,arduino,arduino
+917,Arizona,9,backend development,game development,blockchain,901,39,python,arduino
+918,Becky,1,frontend development,data science,android app development,389,4,c,swift
+919,Bernadette,20,blockchain,internet of things,computer vision,351,10,matlab,R
+920,Cordia,7,machine learning,frontend development,game development,578,49,python,python
+921,Corine,12,frontend development,internet of things,frontend development,971,8,arduino,matlab
+922,Dicie,12,algorithms,deep learning,full stack web development,701,26,go,MERN
+923,Dove,11,data structures,internet of things,machine learning,424,16,java,octave
+924,Drusilla,15,deep learning,game development,competitive programming,763,46,java,MERN
+925,Elena,14,blockchain,data science,android app development,153,42,c++,matlab
+926,Elenora,20,hardware design,algorithms,data structures,486,33,c,octave
+927,Elmina,15,backend development,internet of things,android app development,604,34,python,MERN
+928,Ethyl,13,data science,data structures,data science,441,23,flutter,c
+929,Evalyn,20,algorithms,software design,game development,757,11,R,python
+930,Evelina,20,android app development,deep learning,frontend development,92,38,go,flutter
+931,Faye,19,frontend development,machine learning,data structures,980,21,java,matlab
+932,Huldah,10,software design,algorithms,backend development,32,36,R,python
+933,Idell,14,internet of things,computer vision,frontend development,927,16,MERN,go
+934,Inga,3,algorithms,full stack web development,game development,631,40,R,arduino
+935,Irena,11,software design,ios development,hardware design,907,8,flutter,MERN
+936,Kattie,18,competitive programming,full stack web development,android app development,880,14,arduino,c
+937,Lavenia,7,deep learning,frontend development,deep learning,532,47,c,java
+938,Lovina,4,data structures,full stack web development,game development,627,20,R,MERN
+939,Lulie,4,big data,natural language processing,computer vision,281,16,arduino,flutter
+940,Magnolia,5,internet of things,software design,ios development,773,11,swift,swift
+941,Margeret,8,algorithms,big data,blockchain,833,29,octave,swift
+942,Margery,7,computer vision,full stack web development,data science,650,50,javascript,c++
+943,Media,18,blockchain,machine learning,hardware design,802,29,javascript,javascript
+944,Millicent,6,data science,competitive programming,natural language processing,122,32,c,MEAN
+945,Nena,6,big data,computer vision,deep learning,932,11,javascript,matlab
+946,Orilla,11,internet of things,hardware design,data science,833,4,octave,MERN
+947,Pansy,13,algorithms,big data,data structures,950,41,c++,MERN
+948,Rosia,14,ios development,deep learning,computer vision,466,34,c++,arduino
+949,Rowena,19,data science,software design,ios development,99,31,verilog,go
+950,Tabitha,4,android app development,internet of things,deep learning,128,25,javascript,octave
+951,Verdie,13,full stack web development,data structures,game development,121,18,java,arduino
+952,Zetta,3,data structures,game development,software design,613,45,matlab,c
+953,Zoa,10,full stack web development,natural language processing,machine learning,770,20,c++,go
+954,Zona,17,computer vision,full stack web development,natural language processing,58,30,c,flutter
+955,Albertina,16,ios development,full stack web development,blockchain,5,1,MEAN,c++
+956,Albina,8,big data,big data,frontend development,870,11,go,python
+957,Alyce,14,data structures,machine learning,ios development,649,1,java,javascript
+958,Amie,5,android app development,internet of things,machine learning,2,1,R,octave
+959,Annis,16,frontend development,software design,android app development,716,12,java,arduino
+960,Carra,11,backend development,machine learning,natural language processing,904,33,octave,go
+961,Clarinda,16,natural language processing,natural language processing,game development,292,10,verilog,verilog
+962,Delphia,18,deep learning,algorithms,frontend development,898,24,R,go
+963,Dillie,16,big data,android app development,data science,326,16,c++,c++
+964,Doshie,19,internet of things,data science,algorithms,425,16,swift,go
+965,Drucilla,11,computer vision,computer vision,machine learning,499,47,python,verilog
+966,Etna,7,data science,deep learning,ios development,683,34,arduino,arduino
+967,Eugenie,15,big data,full stack web development,game development,715,16,arduino,MEAN
+968,Eulalia,19,full stack web development,big data,big data,827,16,R,MERN
+969,Eve,20,machine learning,natural language processing,hardware design,627,43,python,c
+970,Felicia,3,deep learning,ios development,data science,831,25,R,R
+971,Florance,7,backend development,ios development,data science,632,34,R,matlab
+972,Fronie,2,data structures,algorithms,internet of things,858,8,matlab,javascript
+973,Geraldine,14,frontend development,data science,data science,82,14,matlab,go
+974,Gina,14,data science,data science,deep learning,234,21,java,verilog
+975,Glenna,17,competitive programming,backend development,blockchain,634,5,verilog,java
+976,Grayce,7,competitive programming,frontend development,machine learning,991,43,c,MEAN
+977,Hedwig,3,data science,computer vision,data structures,440,46,verilog,MERN
+978,Jossie,15,frontend development,data science,computer vision,358,18,verilog,R
+979,Katheryn,12,internet of things,data science,full stack web development,308,46,MEAN,MERN
+980,Katy,4,data science,deep learning,full stack web development,728,1,swift,java
+981,Leanna,3,algorithms,frontend development,backend development,712,47,python,java
+982,Leitha,13,algorithms,big data,competitive programming,957,24,c++,arduino
+983,Leone,17,computer vision,hardware design,frontend development,552,11,flutter,arduino
+984,Lidie,2,full stack web development,big data,internet of things,484,12,R,matlab
+985,Loma,5,software design,software design,frontend development,586,25,octave,verilog
+986,Lular,10,machine learning,game development,game development,638,14,javascript,MEAN
+987,Magdalen,4,frontend development,backend development,data structures,54,14,swift,c++
+988,Maymie,10,data structures,hardware design,blockchain,650,28,MEAN,go
+989,Minervia,9,data science,ios development,data structures,944,44,octave,swift
+990,Muriel,3,full stack web development,full stack web development,big data,184,2,python,arduino
+991,Neppie,13,data structures,data structures,software design,735,1,octave,python
+992,Onie,10,hardware design,ios development,big data,820,19,java,go
+993,Osa,15,game development,blockchain,software design,173,10,swift,verilog
+994,Otelia,15,big data,competitive programming,hardware design,359,49,javascript,go
+995,Paralee,20,android app development,big data,natural language processing,846,12,swift,R
+996,Patience,7,competitive programming,big data,big data,830,33,MERN,java
+997,Rella,8,ios development,full stack web development,game development,207,10,MEAN,java
+998,Rillie,9,backend development,ios development,data science,620,5,octave,swift
+999,Rosanna,2,data structures,data science,machine learning,765,5,matlab,MERN

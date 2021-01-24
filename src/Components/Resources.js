@@ -54,7 +54,7 @@ function Resources() {
       body: JSON.stringify({ title: query }),
     };
     console.log(query);
-    fetch('/articles', requestOptions)
+    fetch('http://127.0.0.1:5000/articles', requestOptions)
       .then((response) => response.json())
       .then((res) => {
         setArticles(res.arts);
